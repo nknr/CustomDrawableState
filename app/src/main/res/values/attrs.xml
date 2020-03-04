@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomStates">
+        <attr name="state_has_new_data" format="boolean"/>
+
+        <attr name="has_new_data" format="boolean"/>
+    </declare-styleable>
+</resources>
